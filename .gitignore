@@ -1,0 +1,10 @@
+node_modules
+.vscode
+dist
+.env
+.DS_store
+src/matched.csv
+/uploads
+*.s3_download
+*.csv
+/hack

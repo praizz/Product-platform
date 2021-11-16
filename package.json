@@ -25,7 +25,7 @@
         "amqp-ts": "1.4.0",
         "app-root-path": "^2.2.1",
         "async": "2.5.0",
-        "aws-sdk": "^2.519.0",
+        "aws-sdk": "^2.814.0",
         "body-parser": "1.18.2",
         "bodybuilder": "2.2.6",
         "class-validator": "0.7.2",
